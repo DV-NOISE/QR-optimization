@@ -1,0 +1,53 @@
+Unit 1: Digital Forensics Science
+1.1 Forensic Science, Computer Forensics, and Digital Forensics
+1.1.1 What is Forensic Science?
+Definition: Forensic science is the application of scientific techniques and principles to solve legal issues13. This interdisciplinary field uses scientific methods to investigate crimes and present findings in a court of law.
+Scope: Forensic science is extensively used in various types of investigations14:
+Criminal Investigations: This is the most commonly understood application, involving crimes such as murder, assault, robbery, and cybercrime. Forensic scientists analyze physical and digital evidence to link suspects to crimes or exonerate the innocent.
+Civil Litigation: In civil cases, forensic science can help resolve disputes by analyzing evidence related to contract breaches, intellectual property theft, or personal injury claims. For example, forensic accounting might be used to track financial fraud, or digital forensics might be used to analyze electronic communications in a business dispute.
+Corporate Investigations: Businesses use forensic science to investigate internal matters such as employee misconduct, theft of trade secrets, or compliance violations. This often involves digital forensics to analyze company computers and networks.
+Intelligence Investigations: Government intelligence agencies utilize forensic science to analyze evidence related to national security threats, terrorism, and espionage. This can involve complex analysis of intercepted communications or recovered digital devices.
+Branches: Forensic science is a broad field with many specialized branches, each focusing on different types of evidence and scientific disciplines15:
+Biological Forensics: This branch deals with biological evidence. 
+DNA Analysis: Used to identify individuals from biological samples like blood, saliva, hair, or skin cells. DNA profiles can link suspects to crime scenes or victims.
+Blood Analysis (Serology): Examines bloodstains for species origin, ABO typing, and preliminary identification of body fluids. Bloodstain pattern analysis can also reveal information about the events of a crime.
+Forensic Anthropology: Focuses on skeletal remains to determine identity, cause of death, and time since death.
+Forensic Entomology: Studies insects found on decomposing bodies to estimate the time of death.
+Chemical Forensics: This branch applies chemical principles to analyze evidence. 
+Toxicology: Analyzes biological samples (blood, urine, tissue) for the presence of drugs, alcohol, poisons, or other chemical substances. This is crucial in cases of overdose, impaired driving, or poisoning.
+Drug Analysis: Identifies and quantifies illicit drugs found at crime scenes.
+Arson Investigation: Analyzes fire debris for accelerants to determine if a fire was intentionally set.
+Explosives Analysis: Identifies components of explosive devices.
+Digital Forensics: This rapidly growing branch deals with electronic evidence. 
+Cybercrime Investigations: Focuses on evidence found on computers, mobile devices, networks, and cloud storage to investigate crimes like hacking, fraud, identity theft, and child exploitation.
+Mobile Device Forensics: Specializes in extracting and analyzing data from mobile phones, tablets, and other portable devices.
+Network Forensics: Investigates network traffic and logs to detect and analyze cyberattacks.
+Cloud Forensics: Deals with data stored in cloud environments, presenting unique challenges due to distributed data and legal jurisdictions.
+1.1.2 What is Digital Forensics?
+Definition: Digital forensics involves the identification, preservation, analysis, and presentation of digital evidence in legal cases16. It is a structured process to ensure that electronic evidence is handled in a manner that maintains its integrity and admissibility in court.
+Applications: Digital forensics is crucial in a variety of contexts17:
+Criminal Investigations: Investigating hacking incidents, financial fraud (e.g., credit card fraud, online scams), cyberbullying, child pornography, and cyber terrorism. Digital forensic experts extract data from computers, smartphones, and other devices to build a case against perpetrators.
+Civil Litigation: Examining digital artifacts like contracts, emails, business transactions, and communication logs to support legal arguments in civil disputes. This can include intellectual property disputes, divorce cases, or employment lawsuits.
+Corporate Security: Detecting and investigating insider threats (e.g., data theft by employees), policy violations (e.g., misuse of company resources), and industrial espionage. Digital forensics helps organizations understand security breaches and implement better protective measures.
+Cyber Warfare: Tracking digital threats to national security, identifying state-sponsored cyberattacks, and analyzing malware used in cyber warfare campaigns. This involves high-level analysis of sophisticated attacks and attribution to specific actors.
+1.1.3 Computer Forensics vs. Digital Forensics
+While often used interchangeably, there's a distinction in their scope18:
+Detailed Comparison:
+Computer Forensics (Traditional): Primarily deals with static data residing on individual computer systems. Its scope is limited to the physical computing device itself, such as desktops, laptops, and their attached storage media (hard drives, USB drives). The investigations typically involve analyzing file systems, recovering deleted data, examining system logs, and searching for artifacts related to user activities (e.g., browser history, document access). The focus is on the "what happened" on a specific machine.
+Digital Forensics (Modern & Broader): Encompasses computer forensics but extends its scope to a wider array of digital devices and environments. This includes: 
+Mobile Devices: Smartphones, tablets, GPS devices, wearables.
+Network Devices: Routers, switches, firewalls, servers, and network traffic itself.
+Cloud Environments: Data stored in public, private, or hybrid clouds.
+Internet of Things (IoT) Devices: Smart home devices, industrial control systems, connected vehicles.
+Virtual Environments: Virtual machines and virtual networks.
+Embedded Systems: Firmware and specialized electronic devices.
+Digital forensics addresses the challenges posed by distributed data, volatile data, and the interconnected nature of modern digital systems. It investigates not just individual machines but also the interactions between them, the flow of information across networks, and data stored remotely.
+investigations typically involve analyzing file systems, recovering deleted data, examining system logs, and searching for artifacts related to user activities (e.g., browser history, document access). The focus is on the "what happened" on a specific machine.
+Digital Forensics (Modern & Broader): Encompasses computer forensics but extends its scope to a wider array of digital devices and environments. This includes: 
+Mobile Devices: Smartphones, tablets, GPS devices, wearables.
+Network Devices: Routers, switches, firewalls, servers, and network traffic itself.
+Cloud Environments: Data stored in public, private, or hybrid clouds.
+Internet of Things (IoT) Devices: Smart home devices, industrial control systems, connected vehicles.
+Virtual Environments: Virtual machines and virtual networks.
+Embedded Systems: Firmware and specialized electronic devices.
+Digital forensics addresses the challenges posed by distributed data, volatile data, and the interconnected nature of modern digital systems. It investigates not just individual machines but also the interactions between them, the flow of information across networks, and data stored remotely.
